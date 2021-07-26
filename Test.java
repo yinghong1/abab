@@ -3,6 +3,7 @@ public Test{
 		int i;
         int j;
 	double d;
+	float f;
 	}
 }
 
